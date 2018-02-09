@@ -1,12 +1,18 @@
 # Color picker for javascript
 
-## STEP1
+### STEP1
 - add HTML markup into appropriate place or anywhere you need;
+
+
+### STEP3
 - locate the css file into `<head>` of html
 
 ```HTML
 <link rel="stylesheet" href="./css/ui-color-picker.css">
 ```
+
+
+### STEP3
 
 - locate the js file into buttom of this HTML markup  
 
